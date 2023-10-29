@@ -1,5 +1,6 @@
 backend:
   name:  github
+  app_id: dd363b57e0aec7976358
   repo: Corrl/sveltekit-cms
   branch:  main  # Branch to update (optional; defaults to master)
 
